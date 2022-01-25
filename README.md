@@ -1,4 +1,4 @@
-# Project-2
+# TweetEval_partial
 
 # Step 1
 Before Running the code Please save all **project_2.ipynb** colab books to your google drive.
